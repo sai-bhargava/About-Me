@@ -16,7 +16,7 @@ I love building clean, data-driven dashboards and interactive web applications. 
 📫 Contact
 📧 Email: yvsbreddy2003@gmail.com
 
-💼 LinkedIn: linkedin.com/in/yerrabothula-venkata-sai-bhargava-reddy-54a36827b
+💼 LinkedIn: linkedin.com/in/yerrabothula-venkata-sai-bhargava-reddy-54a36827b 
 
 💻 GitHub: github.com/yvsbreddy2003 (https://github.com/sai-bhargava)
 
